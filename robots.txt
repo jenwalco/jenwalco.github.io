@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://jenwalco.github.io/sitemap.html.gz
+Sitemap: https://jenwalco.github.io/app/sitemap.html.gz
+Sitemap: https://jenwalco.github.io/assets/sitemap.html.gz
+Sitemap: https://jenwalco.github.io/css/sitemap.html.gz
+Sitemap: https://jenwalco.github.io/includes/sitemap.html.gz
+Sitemap: https://jenwalco.github.io/item/sitemap.html.gz
+Sitemap: https://jenwalco.github.io/src/sitemap.html.gz
